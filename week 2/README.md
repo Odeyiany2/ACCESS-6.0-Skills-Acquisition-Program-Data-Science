@@ -26,7 +26,7 @@ By the end of this week, you’ll learn how to:
 Simulates messy real-world financial transactions — perfect for learning to clean and structure data before analysis.
 
 **Assignment Dataset:**  
-> [Warehouse and Retail Sales (Montgomery County)](https://www.kaggle.com/datasets/samanfatima7/warehouse-and-retail-sales-montgomery-county)  
+> [Warehouse and Retail Sales (Montgomery County)](https://www.kaggle.com/datasets/samanfatima7/warehouse-and-retail-sales-montgomery-county)  (*Tentative*)
 Students will use this dataset for independent exercises and assignments.
 
 **Assignment (Due Next Session):**
@@ -53,7 +53,7 @@ Students will use this dataset for independent exercises and assignments.
 > [BudgetWise Personal Finance Dataset (Kaggle)](https://www.kaggle.com/datasets/mohammedarfathr/budgetwise-personal-finance-dataset)
 
 **Assignment Dataset:**  
-> [Warehouse and Retail Sales (Montgomery County)](https://www.kaggle.com/datasets/samanfatima7/warehouse-and-retail-sales-montgomery-county)
+> [Warehouse and Retail Sales (Montgomery County)](https://www.kaggle.com/datasets/samanfatima7/warehouse-and-retail-sales-montgomery-county) (*Tentative*)
 
 **Assignment (Due Next Session):**
 > - Remove rows with missing or null values in key columns (e.g., Product or Quantity).  
@@ -115,6 +115,7 @@ Students will use this dataset for independent exercises and assignments.
 - [ ] Cleaned dataset uploaded (if applicable)
 - [ ] Short paragraph of insights in markdown cell
 - [ ] Link shared in class sheet
+
 
 
 
