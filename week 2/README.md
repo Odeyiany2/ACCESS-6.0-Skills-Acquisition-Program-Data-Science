@@ -120,8 +120,8 @@ Students will use this dataset for independent exercises and assignments.
 
 
 **Author:**  
-🧑🏽‍🏫 *Miriam Odeyiany (Mimi)*  
-Instructor – Data Science Track, ACCESS 6.0 Skills Development Program
+🧑🏽‍🏫 *Miriam Odeyiany and Favour Amanfoye*  
+Instructors – Data Science Track, ACCESS 6.0 Skills Development Program
 Department of Accounting, University of Lagos  
 
 
