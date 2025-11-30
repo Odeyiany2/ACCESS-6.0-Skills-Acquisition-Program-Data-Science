@@ -91,7 +91,7 @@ Each project will be deployed as a **Streamlit app** and submitted via GitHub.
 ---
 
 ## 💡 **Instructor**
-**Miriam Odeyiany (Mimi)**  
+**Miriam Odeyiany and Favour Amanfoye**  
 _Data Science Track Instructor — ACCESS 6.0 Skills Development Program_  
 Department of Accounting, University of Lagos  
 
