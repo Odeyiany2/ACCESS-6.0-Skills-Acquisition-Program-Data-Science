@@ -35,9 +35,11 @@ By the end of this week, you will:
 1. Create your own GitHub repository 
 
 **Week 1 - Session 2**
-1. Write a short Python program to summarize a list of transaction amounts (sum, mean, count).  
-2. Push your notebook to your repo and submit your GitHub link on the class sheet.
-
+1. Write a function that takes a list of transaction amounts and prints:
+   - Total sum
+   - Average
+   - Number of transactions
+ 2. Save and push the notebook to your GitHub repo
 
 
 ## 🔗 **Recommended Resources**
