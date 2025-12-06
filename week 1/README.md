@@ -39,7 +39,7 @@ By the end of this week, you will:
    - Total sum
    - Average
    - Number of transactions
- 2. Save and push the notebook to your GitHub repo
+ 2. Save and push the notebook to your GitHub repo. Submit the link to the [submission sheet](https://docs.google.com/spreadsheets/d/1uIpd_jGrRRlQ1X9wx3XDzakWtKQ_cWMi7gB8eaQvXrs/edit?usp=sharing) on week one session 2
 
 
 ## 🔗 **Recommended Resources**
