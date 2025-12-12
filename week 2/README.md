@@ -56,11 +56,7 @@ Students will use this dataset for independent exercises and assignments.
 > [Warehouse and Retail Sales (Montgomery County)](https://www.kaggle.com/datasets/samanfatima7/warehouse-and-retail-sales-montgomery-county) (*Tentative*)
 
 **Assignment (Due Next Session):**
-> - Remove rows with missing or null values in key columns (e.g., Product or Quantity).  
-> - Create a new column for `TotalPrice = Quantity * UnitPrice`.  
-> - Create a `Month` column extracted from the `Date` column.  
-> - Group by `Month` and compute total revenue per month.  
-> - Save the cleaned file as `cleaned_sales.csv` and upload it to your repo.
+
 
 
 
