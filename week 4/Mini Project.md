@@ -2,7 +2,7 @@
 This mini project is designed to help you consolidate everything learned from Week 1 to Week 4 before we resume model building in January.
 
 ⚠️ Note: You are NOT required to train any machine learning model yet.
-The focus is on data preparation, feature engineering, and model reasoning.
+The focus is on data preparation, feature engineering, and model reasoning/thinking (conceptual).
 
 ### **📌 Project Structure**
 
@@ -64,7 +64,7 @@ Dataset
 📊 Superstore Sales Dataset
 
 🔗 Dataset link:
-👉 [Supermarket Dataset](https://www.kaggle.com/datasets/mustofaahmad/inventory-management-grocery-industry)
+👉 [Housing Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
 ### **🎯 Tasks (Part 2)**
 
@@ -74,7 +74,7 @@ Apply everything learned from Week 1 to Week 4:
 
     - Check shape, columns, data types
 
-    - Identify missing values
+    - Identify missing values (if any)
 
 - Data Cleaning
 
@@ -94,7 +94,7 @@ Apply everything learned from Week 1 to Week 4:
 
 - Feature Engineering, Scaling and Encoding 
 
-   - Create at least 5 new features
+   - Create at least 2 new features
 
    - Identify the columns that would be scales and those that would be encoded.
 
