@@ -12,24 +12,24 @@ Part 1: Practice on the dataset you've been working on
 
 Part 2: Apply skills to a brand-new dataset
 
-### 🔹 **Part 1 — Feature Engineering & Model Thinking (Practice)**
+## 🔹 **Part 1 — Feature Engineering & Model Thinking (Practice)**
 Dataset
 
 [🏪 Warehouse and Retail Sales – Montgomery County](https://www.kaggle.com/datasets/samanfatima7/warehouse-and-retail-sales-montgomery-county)
 
 You have already:
 
-Cleaned the dataset
+   - Cleaned the dataset
 
-Handled missing values
+   - Handled missing values
 
-Parsed dates
+   - Parsed dates
 
-Performed EDA and visualization
+   - Performed EDA and visualization
 
 This part focuses on the next stage of the data science workflow.
 
-#### **🎯 Tasks (Part 1)**
+### **🎯 Tasks (Part 1)**
 
 - Feature Engineering
 
@@ -56,17 +56,9 @@ This part focuses on the next stage of the data science workflow.
 
      - Identify a suitable target variable
 
-     - State the problem type:
+     - State the problem type and explain your reasoning in 3–5 sentences
 
-         - Regression
-
-         - Binary classification
-
-         - Multiclass classification
-
-     - Explain your reasoning in 3–5 sentences
-
-###🔹 **Part 2 — End-to-End Data Preparation (New Dataset)**
+## **🔹Part 2 — End-to-End Data Preparation (New Dataset)**
 Dataset
 
 📊 Superstore Sales Dataset
@@ -117,7 +109,7 @@ Apply everything learned from Week 1 to Week 4:
 
 Ensure your notebook is:
 
-  - Well-structured
+  - Well-structured: divide it into part 1 and part 2 
 
   - Clearly documented
 
