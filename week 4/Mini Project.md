@@ -61,7 +61,7 @@ This part focuses on the next stage of the data science workflow.
 ## **🔹Part 2 — End-to-End Data Preparation (New Dataset)**
 Dataset
 
-📊 Superstore Sales Dataset
+📊 Housing Dataset
 
 🔗 Dataset link:
 👉 [Housing Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
