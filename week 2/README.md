@@ -103,7 +103,7 @@ Students will use this dataset for independent exercises and assignments.
 - 🎥 [Kaggle Pandas Tutorial Series](https://www.kaggle.com/learn/pandas)
 - 🧾 [Data Cleaning in Python: A Practical Guide](https://realpython.com/python-data-cleaning-numpy-pandas/)
 - 💡 [Finance Example: Analyzing Sales Transactions using Pandas](https://towardsdatascience.com/analyzing-financial-data-with-pandas-a45e7b3a0ba7)
-
+- [Practice Dataset - Retail Sore Cleaning](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
 
 
 **✅ Submission Checklist**
