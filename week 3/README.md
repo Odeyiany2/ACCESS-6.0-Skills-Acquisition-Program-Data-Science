@@ -85,9 +85,10 @@ Using the **Warehouse and Retail Sales – Montgomery County** dataset:
 
 ## **Assignment (Session 6)**
 Continue with the original dataset, or use the [retail dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset) 
-Create at least 4 visualizations that communicate a single business story (e.g., trends or performance comparisons).
 
+- Create at least 4 visualizations that communicate a single business story (e.g., trends or performance comparisons).
 
+https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 ## 💡 Tips for Success
 
 * Focus on **insight, not just plots**
