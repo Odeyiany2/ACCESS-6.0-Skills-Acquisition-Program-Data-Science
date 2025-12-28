@@ -84,9 +84,7 @@ Using the **Warehouse and Retail Sales – Montgomery County** dataset:
 * Submit the **GitHub repository link**.
 
 ## **Assignment (Session 6)**
-Continue with the original dataset, or use the retail dataset or 
-Use the superstore dataset - [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-
+Continue with the original dataset, or use the [retail dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset) 
 Create at least 4 visualizations that communicate a single business story (e.g., trends or performance comparisons).
 
 
